@@ -1,0 +1,7 @@
+First Name: T
+Last Name: T
+Customer ID: TTTT
+Address: T
+Phone Number: T
+Savings Account Number: T
+Checking Account Number: T

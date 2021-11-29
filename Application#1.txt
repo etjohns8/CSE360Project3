@@ -1,0 +1,7 @@
+First Name: Woopy
+Last Name: McWoopFace
+Customer ID: 1234
+Address: 123 W Woopface Dr
+Phone Number: 6021231234
+Savings Account Number: 123123123
+Checking Account Number: 123123
