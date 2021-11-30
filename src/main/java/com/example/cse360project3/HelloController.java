@@ -48,6 +48,15 @@ public class HelloController {
             errorMessage.setText(currentErrorMessage);
         }
     }
+    public void clearBoxes(ActionEvent event) throws IOException{
+        firstNameField.clear();
+        lastNameField.clear();
+        idField.clear();
+        pNumField.clear();
+        addressField.clear();
+        sAccField.clear();
+        cAccField.clear();
+    }
     private void updateErrorMessage(){
         if(emptyFieldError){
             currentErrorMessage = justEmptyField;
